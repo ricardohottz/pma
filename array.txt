@@ -1,0 +1,4 @@
+Cesar, cesar@celke.com.br, cesar, 123456
+Kelly, kelly@celke.com.br, kelly, 123457
+Jessica, jessica@celke.com.br, jessica, 123458
+ 
